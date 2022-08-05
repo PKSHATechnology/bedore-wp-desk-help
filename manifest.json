@@ -133,7 +133,7 @@
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
             }
           ],
-          "value": "'Satoshi',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN','Hiragino Sans',Meiryo,sans-serif"
+          "value": "'Satoshi', YuGothic, 'Yu Gothic', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif"
         },
         {
           "identifier": "text_font",
@@ -206,7 +206,7 @@
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
             }
           ],
-          "value": "'Satoshi',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN','Hiragino Sans',Meiryo,sans-serif"
+          "value": "'Satoshi', YuGothic, 'Yu Gothic', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif"
         }
       ]
     },
