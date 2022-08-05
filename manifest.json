@@ -41,7 +41,7 @@
           "type": "color",
           "description": "hover_link_color_description",
           "label": "hover_link_color_label",
-          "value": "#151515d1"
+          "value": "#151515"
         },
         {
           "identifier": "visited_link_color",
