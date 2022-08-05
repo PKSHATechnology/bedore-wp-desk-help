@@ -27,7 +27,7 @@
           "type": "color",
           "description": "text_color_description",
           "label": "text_color_label",
-          "value": "##121213"
+          "value": "#121213"
         },
         {
           "identifier": "link_color",
